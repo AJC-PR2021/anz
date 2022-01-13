@@ -9,3 +9,6 @@ Jupyter Notebook Features:
 - Calculated the annual salary for all customers who paid using this method
 - Simple regression model forecasts the annual salary for the following year
 - Decision Tree model also forecasts the next year's annual salary (alternative method) 
+
+PowerPoint:
+- Presentation catered to C-level executives describing recommendations and process behind work
